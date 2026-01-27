@@ -19,7 +19,7 @@ This analysis seeks to answer:
 ---
 
 ### Data Overview
-The dataset used in this project is sourced from the **Restaurant Orders dataset by Maven Analytics**, representing a fictitious restaurant and designed for analytical practice.
+The dataset used in this project is sourced from the [Maven Analytics Restaurant Orders Dataset](https://mavenanalytics.io/data-playground/restaurant-orders), representing a fictitious restaurant and designed for analytical practice.
 
 It consists of three tables:
 - **order_details**: Transaction-level order records including order ID, date, time, and item ID  
