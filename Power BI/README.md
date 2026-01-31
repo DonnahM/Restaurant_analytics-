@@ -23,7 +23,7 @@ These KPIs provide immediate context before deeper exploration.
 
 ---
 ## Dashboard Preview
-![Restaurant Performance Dashboard](Power Bi_dashboard.png)  
+![Restaurant Performance Dashboard](Power%20Bi_dashboard.png) 
 
 ---
 
