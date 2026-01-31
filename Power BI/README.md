@@ -1,7 +1,7 @@
 # Power BI Dashboard — Restaurant Performance Overview
 
 ## Overview
-This Power BI dashboard translates the exploratory SQL and Python analysis into an interactive, executive-friendly visual summary.  
+This Power BI dashboard synthesizes exploratory SQL and Python analysis into an interactive, executive-level visual summary. It is designed to provide rapid data-driven answers to core operational questions.  
 The goal is to quickly answer:
 
 - How busy is the restaurant?

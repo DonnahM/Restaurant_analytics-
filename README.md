@@ -29,14 +29,6 @@ It consists of three tables:
 Records with missing `item_id` values were excluded from analytical views to ensure accurate item-level revenue analysis, while remaining available in the raw tables for auditability.
 
 ---
-## 📊 Executive Dashboard Preview
-*Quickly visualize the restaurant's performance at a glance.*
-
-![Dashboard Screenshot](./Power%20BI/Power%20Bi_dashboard.png) 
-
-> **Full Analysis:** For a deep dive into the KPIs and visual breakdowns, check out the [Power BI Dashboard Documentation](./Power%20BI/)
-
----
 
 ### Methodology
 SQLite was used as the primary analytical engine, with SQL views created to centralize transformations and calculations. Python (pandas) was used to execute SQL queries and present results in tabular form within a Jupyter Notebook.
@@ -77,4 +69,15 @@ This analysis demonstrates that restaurant revenue is driven primarily by a focu
 
 ---
 
+## 📊 Business Intelligence & Visualization
+While the SQL and Python analysis provides the technical foundation, the findings are consolidated into a visual reporting tool.
+
+![Dashboard Screenshot](./Power%20BI/Power%20Bi_dashboard.png)
+
+**Key Features:**
+* **Executive Summary:** High-level KPIs for revenue and order volume.
+* **Temporal Analysis:** Visualizing peak service hours to guide staffing.
+* **Menu Performance:** Identifying revenue concentration across categories.
+
+> **View Detailed Documentation:** For a full breakdown of the measures, DAX calculations, and interactivity, visit the [Power BI Project Folder](./Power%20BI/).
 
